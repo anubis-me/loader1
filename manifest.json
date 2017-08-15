@@ -1,0 +1,15 @@
+{
+  "short_name": "ENIGMA",
+  "name": "ENIGMA",
+  "icons": [
+    {
+      "src":"images.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#000",
+  "theme_color": "#536878",
+  "display": "fullscreen"
+}
